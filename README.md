@@ -1,2 +1,2 @@
 # Interactive Counter
-- sj-i-counter.netlify.app
+- https://sj-i-counter.netlify.app
