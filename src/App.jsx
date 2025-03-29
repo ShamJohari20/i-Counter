@@ -59,9 +59,6 @@ const App = () => {
             }}
           />
 
-
-
-
           <input
             type="number"
             placeholder="Enter The Startting Value"
